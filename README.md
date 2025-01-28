@@ -2,49 +2,49 @@
 
 An AI-powered traffic management system designed to efficiently handle real-time traffic at junctions using Automatic Traffic Counting and Classification (ATCC) and Automatic Number Plate Recognition (ANPR). The system dynamically manages traffic signals based on real-time data, reducing congestion and improving traffic flow.
 
-Features
+# Features
 
-Helmet Detection:
+##Helmet Detection:
 
 Identifies riders not wearing helmets to ensure traffic safety compliance.
 
-Triple Riding Detection:
+##Triple Riding Detection:
 
 Detects instances of more than two riders on a two-wheeler.
 
-Accident Detection:
+##Accident Detection:
 
 Recognizes accidents in real-time to trigger alerts for quicker response.
 
-Heatmap Visualization:
+##Heatmap Visualization:
 
 Displays traffic density and congestion hotspots in a visual format.
 
-Automatic Number Plate Recognition (ANPR):
+A##utomatic Number Plate Recognition (ANPR):
 
 Detects and recognizes vehicle license plates for tracking and monitoring purposes.
 
-Automatic Traffic Counting and Classification (ATCC):
+##Automatic Traffic Counting and Classification (ATCC):
 
 Counts and classifies vehicles in real-time for better traffic management.
 
-Dynamic Signal Controlling:
+##Dynamic Signal Controlling:
 
 Adjusts traffic signals dynamically based on real-time vehicle counts on each road.
 
-2x2 Grid Layout Display:
+##2x2 Grid Layout Display:
 
 Outputs functionalities in a 2x2 grid using OpenCV.
 
-Flask Integration:
+##Flask Integration:
 
 Provides backend support for managing and processing traffic data.
 
-Technologies Used
+#Technologies Used
 
-Programming Language: Python
+##Programming Language: Python
 
-Libraries and Tools:
+##Libraries and Tools:
 
 OpenCV
 
@@ -58,23 +58,7 @@ Flask for backend web services
 
 Hardware Requirements: Optional integration with cameras for real-time feed.
 
-Project Structure
-
-📂 Intelligent-Traffic-Management-System
-├── 📁 models/                     # Machine learning models (if applicable)
-├── 📁 data/                       # Sample datasets for testing
-├── 📁 components/                 # Individual functionalities (e.g., helmet detection, traffic violation tracking)
-│   ├── helmet_detection.py
-│   ├── traffic_violation.py
-│   └── ...
-├── 📁 utils/                      # Utility scripts (e.g., preprocessing, helper functions)
-├── app.py                         # Main Flask app file
-├── grid_display.py                # OpenCV 2x2 grid layout implementation
-├── requirements.txt               # Python dependencies
-├── README.md                      # Project documentation
-└── LICENSE                        # License file
-
-Installation
+#Installation
 
 Clone the repository:
 
