@@ -90,7 +90,7 @@ Additional functionalities, such as helmet detection, triple riding detection, a
 
 Dynamic signal controlling ensures smoother traffic flow by prioritizing roads with higher vehicle density.
 
-Future Enhancements
+# Future Enhancements
 
 Add predictive traffic flow using machine learning models.
 
@@ -100,10 +100,6 @@ Expand functionality for additional violations like overspeeding.
 
 Improve UI/UX for better interaction.
 
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contributors:
-
-Divyansh YadavGitHub | LinkedIn
