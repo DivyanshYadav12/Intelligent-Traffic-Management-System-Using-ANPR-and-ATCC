@@ -74,7 +74,7 @@ Run the Flask app:
 
 python app.py
 
-How It Works
+# How It Works
 
 The system captures real-time traffic data using cameras.
 
