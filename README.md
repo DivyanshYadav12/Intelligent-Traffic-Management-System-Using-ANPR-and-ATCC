@@ -72,11 +72,7 @@ pip install -r requirements.txt
 
 Run the Flask app:
 
-flask run
-
-For the OpenCV 2x2 grid layout:
-
-python grid_display.py
+python app.py
 
 How It Works
 
