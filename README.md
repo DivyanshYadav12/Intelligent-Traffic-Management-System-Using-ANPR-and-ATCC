@@ -36,13 +36,13 @@ An AI-powered traffic management system designed to efficiently handle real-time
 
 --> Provides backend support for managing and processing traffic data.
 
-#Technologies Used
+# Technologies Used
 
 #Programming Language: Python
 
 #Libraries and Tools:
 
-OpenCV
+## OpenCV
 
 YOLO (You Only Look Once) for object detection
 
