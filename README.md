@@ -38,11 +38,11 @@ An AI-powered traffic management system designed to efficiently handle real-time
 
 # Technologies Used
 
-#Programming Language: Python
+Programming Language: Python
 
-#Libraries and Tools:
+Libraries and Tools:
 
-## OpenCV
+OpenCV
 
 YOLO (You Only Look Once) for object detection
 
@@ -54,7 +54,7 @@ Flask for backend web services
 
 Hardware Requirements: Optional integration with cameras for real-time feed.
 
-#Installation
+# Installation
 
 Clone the repository:
 
