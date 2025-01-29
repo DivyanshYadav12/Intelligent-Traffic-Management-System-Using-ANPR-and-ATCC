@@ -87,7 +87,7 @@ class AccidentDetectionSystem:
     @staticmethod
     def detect_accident(video_paths):
         """Static method to initialize and run accident detection."""
-        MODEL_PATH = r"D:\intelligent_traffic_management_system\PROJECT\models\best.pt"  # Replace with the path to your model
+        MODEL_PATH = "./models/best.pt"  # Replace with the path to your model
         CONFIDENCE_THRESHOLD = 0.4
 
         try:
