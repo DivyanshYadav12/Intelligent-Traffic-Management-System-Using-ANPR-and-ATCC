@@ -100,6 +100,9 @@ Expand functionality for additional violations like overspeeding.
 
 Improve UI/UX for better interaction.
 
+# Note
+Make Sure that you are connecting with the internet so that all the required files and model's should be download in you system.
+
 # License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
